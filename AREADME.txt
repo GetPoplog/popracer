@@ -1,12 +1,12 @@
-    ****************************************
-    * PopRacer AI Programming Team Project *
-    *      School of Computer Science      *
-    *       University of Birmingham       *
-    *                (2005)                *
-    ****************************************
-    *               READ ME                *
-    *              (AREADME)               *
-    ****************************************
+****************************************
+* PopRacer AI Programming Team Project *
+*      School of Computer Science      *
+*       University of Birmingham       *
+*                (2005)                *
+****************************************
+*               READ ME                *
+*              (AREADME)               *
+****************************************
 
 Updated A.Sloman 20 May 2009; 18 Jan 2020
 
