@@ -82,6 +82,7 @@ v1.08
 
 */
 uses rclib;
+uses rc_control_panel;
 uses rc_text_input;
 uses rc_graphplot;
 uses propsheet;
@@ -697,7 +698,7 @@ TESTS:
 */
 
 define averageFitness()->avFitness;
-    lvars total,car;
+    lvars total = 0,car;
 	 /* Loop through each car */
     for car in cars do
            (iterations(car)-bonus(car)) + total -> total;

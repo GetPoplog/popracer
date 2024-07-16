@@ -49,7 +49,10 @@ pr('PopRacer v1.08 (c) Team Popcorn 2005 - Loading Modules...');
 pr('Final Release by Michael Brook');
 nl(1);
 
-uses rclib, rc_window_object, rc_buttons;
+2000000000 -> popmemlim;
+
+uses rclib;
+uses rc_control_panel;
 
 compilehere
             nnga.p
